@@ -7,7 +7,7 @@
  * and wire SOCIAL_API_ENDPOINT to your microservice.
  */
 
-export const NEWS_API_KEY = 'demo';  // Replace with real key
+export const NEWS_API_KEY = '49bfe43134974002962c7f02ef7ebdfe';  // Replace with real key
 export const NEWS_API_BASE = 'https://newsapi.org/v2';
 export const SOCIAL_API_ENDPOINT = null; // Set to your microservice URL
 
